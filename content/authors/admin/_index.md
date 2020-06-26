@@ -29,13 +29,13 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Bioinformatics
+  - course: Ph.D candidate in Bioinformatics
     institution: indiana University
     year: 2017-Now
-  - course: BSc in Statistics
+  - course: BS in Statistics
     institution: Shandong University, China
     year: 2017
-  - course: BSc in Finance
+  - course: BEc in Finance
     institution: Shandong University, China
     year: 2017
 
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Xiaoyu Lu is a Ph.D. Candidate in Bioinformatics Indiana University.
+Xiaoyu received his B.S. in Statistics and B.S. in B.Ec. in Finance from Shandong University. He is well trained in statistics and mathematical modeling. Currently, he is a Ph.D. Candidate in Indiana University. His research interest includes algorithm design in omics data, mathematical modeling in gene expression analysis and software tool development for omics data analysis.
